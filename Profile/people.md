@@ -6,7 +6,7 @@
 
 # 👥 People
 
-DurhamWIND is a multidisciplinary group at Durham University working on the fluid mechanics of wind energy — from the aerodynamics of a single rotor to the interaction of whole wind farms with the atmospheric boundary layer, and on to the systems that get that energy built and delivered. We bring together expertise in wind-farm aerodynamics, laboratory experiment, geophysical fluid dynamics and applied mathematics, and artificial intelligence. Nearly all of this is done jointly with colleagues elsewhere, and we learn a great deal from them.
+Durham WindFlow is a multidisciplinary group at Durham University working on the fluid mechanics of wind energy — from the aerodynamics of a single rotor to the interaction of whole wind farms with the atmospheric boundary layer, and on to the systems that get that energy built and delivered. We bring together expertise in wind-farm aerodynamics, laboratory experiment, geophysical fluid dynamics and applied mathematics, and artificial intelligence. Nearly all of this is done jointly with colleagues elsewhere, and we learn a great deal from them.
 
 ## Investigators
 
@@ -32,7 +32,7 @@ Department of Engineering, Durham University
 Department of Mathematical Sciences, Durham University  
 [hossein.amini-kafiabad@durham.ac.uk](mailto:hossein.amini-kafiabad@durham.ac.uk) · [Website](https://kafiabad.com/) · [Google Scholar](https://scholar.google.com/citations?user=Rv1ZtYAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-8791-9217) · [Durham profile](https://www.durham.ac.uk/staff/hossein-amini-kafiabad/)
 
-> I am an applied mathematician and fluid dynamicist in the Department of Mathematical Sciences. My research is in numerical and theoretical geophysical fluid dynamics, and most prominently in the interaction of waves, vortices and turbulence in the atmosphere and ocean. I also develop computational tools and methods for problems across physics and engineering. I completed my PhD at McGill University with Prof. Peter Bartello, studying balance dynamics in rotating stratified turbulence, and from 2018 to 2022 was a postdoctoral researcher and university teacher at the University of Edinburgh with Prof. Jacques Vanneste. Within DurhamWIND, my work connects wind farm flows to the large-scale atmospheric dynamics they sit inside.
+> I am an applied mathematician and fluid dynamicist in the Department of Mathematical Sciences. My research is in numerical and theoretical geophysical fluid dynamics, and most prominently in the interaction of waves, vortices and turbulence in the atmosphere and ocean. I also develop computational tools and methods for problems across physics and engineering. I completed my PhD at McGill University with Prof. Peter Bartello, studying balance dynamics in rotating stratified turbulence, and from 2018 to 2022 was a postdoctoral researcher and university teacher at the University of Edinburgh with Prof. Jacques Vanneste. Within Durham WindFlow, my work connects wind farm flows to the large-scale atmospheric dynamics they sit inside.
 
 ---
 
@@ -129,4 +129,4 @@ We welcome collaboration, and enquiries from prospective students and researcher
 
 There is no central inbox. Write to whichever of us works closest to what interests you — email addresses are listed above.
 
-🌐 [https://durhamwind-lab.github.io](https://durhamwind-lab.github.io)
+🌐 [https://durhamwindflow.github.io](https://durhamwindflow.github.io)
