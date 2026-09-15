@@ -1,5 +1,5 @@
 # ---------------------------------------------------------------------------
-# DurhamWIND — research themes.
+# Durham WindFlow — research themes.
 #
 # SOURCE OF TRUTH for the website's Research page and the theme cards on the
 # home page. Each theme's `key` should match a key in site.yml -> themes so

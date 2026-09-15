@@ -1,5 +1,5 @@
 # ---------------------------------------------------------------------------
-# DurhamWIND — publications.
+# Durham WindFlow — publications.
 #
 # SOURCE OF TRUTH. Editing this file updates the website's Publications page
 # and the table on the GitHub org profile README.
@@ -14,7 +14,7 @@
 #   year      (int, required)   title (required)   authors (required)
 #   venue     journal, volume, article number
 #   doi       full https://doi.org/... URL
-#   repo      https://github.com/DurhamWIND-lab/... if code is published
+#   repo      https://github.com/DurhamWindFlow/... if code is published
 #   theme     key from site.yml -> themes
 #   featured  true to surface it on the home page
 #   note      short editorial note shown as a small tag
@@ -26,7 +26,7 @@
   authors: "Bastankhah, M., Hydon, P., Shapiro, C., Gayme, D., & Meneveau, C."
   venue: "Journal of Fluid Mechanics, 1039, A29"
   doi: https://doi.org/10.1017/jfm.2026.11732
-  repo: https://github.com/DurhamWIND-lab/Generalised-Actuator-Disk-theory
+  repo: https://github.com/DurhamWindFlow/Generalised-Actuator-Disk-theory
   preprint: https://arxiv.org/abs/2510.08213
   theme: farm-aero
   featured: true
@@ -36,7 +36,7 @@
   authors: "Mabboux-Fort, M., Bastankhah, M., Matthews, P. C., & Bozorg, M."
   venue: "Applied Energy, 414, 127815"
   doi: https://doi.org/10.1016/j.apenergy.2026.127815
-  repo: https://github.com/DurhamWIND-lab/optimal-wf-scheduling
+  repo: https://github.com/DurhamWindFlow/optimal-wf-scheduling
   theme: systems
   featured: true
 

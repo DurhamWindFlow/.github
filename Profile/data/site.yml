@@ -1,16 +1,16 @@
 # ---------------------------------------------------------------------------
-# DurhamWIND — global site settings and controlled vocabularies.
+# Durham WindFlow — global site settings and controlled vocabularies.
 #
 # This file is the single source of truth for the group's name, blurbs, and
 # the labels/ordering used across the website and the GitHub org profile.
 # Edit here; both renderers pick it up.
 # ---------------------------------------------------------------------------
 
-name: DurhamWIND
-full_name: "DurhamWIND: Atmospheric Flow and Wind Energy Dynamics Group"
+name: Durham WindFlow
+full_name: "Durham WindFlow: Atmospheric Flow and Wind Energy Dynamics Group"
 institution: Durham University
-url: https://durhamwind-lab.github.io
-github_org: https://github.com/DurhamWIND-lab
+url: https://durhamwindflow.github.io
+github_org: https://github.com/DurhamWindFlow
 
 tagline: Atmospheric flow and wind energy dynamics at Durham University
 
@@ -29,7 +29,7 @@ banner:
 
 # One paragraph. Used on the site home page and the org profile README.
 intro: >
-  DurhamWIND is a multidisciplinary group at Durham University working on the
+  Durham WindFlow is a multidisciplinary group at Durham University working on the
   fluid mechanics of wind energy — from the aerodynamics of a single rotor to
   the interaction of whole wind farms with the atmospheric boundary layer, and
   on to the systems that get that energy built and delivered. We bring together
@@ -129,7 +129,7 @@ copy:
       One problem — understanding and improving how wind farms take energy out
       of the atmosphere.
     description: >
-      Research themes at DurhamWIND — wind farm aerodynamics, wake steering and
+      Research themes at Durham WindFlow — wind farm aerodynamics, wake steering and
       flow control, floating offshore wind, and energy systems and risk.
     intro: >
       Our work runs from the aerodynamics of a single rotor through to the
@@ -144,7 +144,7 @@ copy:
     code_heading: Code & data
     code_text: >
       We publish the code behind our papers where we can. Repositories live in
-      the <a href="https://github.com/DurhamWIND-lab">DurhamWIND GitHub
+      the <a href="https://github.com/DurhamWindFlow">Durham WindFlow GitHub
       organisation</a>.
 
   people:
@@ -153,7 +153,7 @@ copy:
       A multidisciplinary group, from rotor aerodynamics to geophysical fluid
       dynamics to AI for energy infrastructure.
     description: >
-      The people of DurhamWIND — investigators, postdoctoral researchers and
+      The people of Durham WindFlow — investigators, postdoctoral researchers and
       PhD students at Durham University working on wind energy and atmospheric
       flow.
     joining_heading: Joining us
@@ -168,7 +168,7 @@ copy:
       Peer-reviewed journal articles by group members on wind energy and the
       atmospheric flows wind farms sit in.
     description: >
-      Publications from DurhamWIND at Durham University — wind farm
+      Publications from Durham WindFlow at Durham University — wind farm
       aerodynamics, wake steering, floating offshore wind and energy systems.
     # Shown as a callout at the top of the page, not as grey small print. This
     # is where the group's position on credit lives; the home page carries only
@@ -190,7 +190,7 @@ copy:
     lede: We welcome collaboration, and enquiries from prospective students and researchers.
     description: >
       Enquiries, collaboration and current openings for postdoctoral
-      researchers and PhD students at DurhamWIND, Durham University.
+      researchers and PhD students at Durham WindFlow, Durham University.
     find_us_heading: Where to find us
     who_heading: Who to write to
     who_text: >

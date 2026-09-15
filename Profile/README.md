@@ -1,10 +1,10 @@
-# 🌬️ DurhamWIND
+# 🌬️ Durham WindFlow
 
 **Atmospheric Flow and Wind Energy Dynamics Group — Durham University**
 
-[**Website**](https://durhamwind-lab.github.io) · [**People**](https://github.com/DurhamWIND-lab/.github/blob/main/Profile/people.md) · [**Publications**](https://durhamwind-lab.github.io/publications/)
+[**Website**](https://durhamwindflow.github.io) · [**People**](https://github.com/DurhamWindFlow/.github/blob/main/Profile/people.md) · [**Publications**](https://durhamwindflow.github.io/publications/)
 
-DurhamWIND is a multidisciplinary group at Durham University working on the fluid mechanics of wind energy — from the aerodynamics of a single rotor to the interaction of whole wind farms with the atmospheric boundary layer, and on to the systems that get that energy built and delivered. We bring together wind-farm aerodynamics and laboratory experiment, geophysical fluid dynamics and applied mathematics, and artificial intelligence for infrastructure and risk.
+Durham WindFlow is a multidisciplinary group at Durham University working on the fluid mechanics of wind energy — from the aerodynamics of a single rotor to the interaction of whole wind farms with the atmospheric boundary layer, and on to the systems that get that energy built and delivered. We bring together wind-farm aerodynamics and laboratory experiment, geophysical fluid dynamics and applied mathematics, and artificial intelligence for infrastructure and risk.
 
 This GitHub organisation hosts the open-source code, datasets and supplementary material behind our publications.
 
@@ -37,9 +37,9 @@ The table below lists peer-reviewed journal articles by group members relating t
 | 2026 | **Analytical modelling of wind-turbine wake turbulence in neutral atmospheric boundary layers** | Blondel, F., Jézéquel, E., Schottenhamml, H., & Bastankhah, M. | [Journal of Fluid Mechanics, 1037, A53](https://doi.org/10.1017/jfm.2026.11685) | — |
 | 2026 | **Assessing engineering wake models against operational data: insights from the Lillgrund wind farm wake steering campaign** | Siguenza-Alvarado, D., Harrison, M., Mohammadi, M., Vishwakarma, P., Bossanyi, E., Landberg, L., & Bastankhah, M. | [Wind Energy, 29(6), e70126](https://doi.org/10.1002/we.70126) | — |
 | 2026 | **Feasibility study of implementing wake steering in floating wind farms: power gain, load estimation and economic analysis** | Mohammadi, M., Bossanyi, E., Harrison, M., Ogbeifun, M., McCarthy, C., Chapman, J., Bastankhah, M., & Landberg, L. | [Wind Energy, 29(5), e70111](https://doi.org/10.1002/we.70111) | — |
-| 2026 | **Generalised actuator disk theory: wake development with turbulent entrainment** | Bastankhah, M., Hydon, P., Shapiro, C., Gayme, D., & Meneveau, C. | [Journal of Fluid Mechanics, 1039, A29](https://doi.org/10.1017/jfm.2026.11732) | [repo](https://github.com/DurhamWIND-lab/Generalised-Actuator-Disk-theory) |
+| 2026 | **Generalised actuator disk theory: wake development with turbulent entrainment** | Bastankhah, M., Hydon, P., Shapiro, C., Gayme, D., & Meneveau, C. | [Journal of Fluid Mechanics, 1039, A29](https://doi.org/10.1017/jfm.2026.11732) | [repo](https://github.com/DurhamWindFlow/Generalised-Actuator-Disk-theory) |
 | 2026 | **Modelling farm-to-farm interaction using a fast linearised numerical approach** | Everley, A., Kafiabad, H. A., & Bastankhah, M. | [Journal of Physics: Conference Series, 3224(3), 032071](https://doi.org/10.1088/1742-6596/3224/3/032071) | — |
-| 2026 | **Optimal wind farm energy and reserve scheduling incorporating wake interactions** | Mabboux-Fort, M., Bastankhah, M., Matthews, P. C., & Bozorg, M. | [Applied Energy, 414, 127815](https://doi.org/10.1016/j.apenergy.2026.127815) | [repo](https://github.com/DurhamWIND-lab/optimal-wf-scheduling) |
+| 2026 | **Optimal wind farm energy and reserve scheduling incorporating wake interactions** | Mabboux-Fort, M., Bastankhah, M., Matthews, P. C., & Bozorg, M. | [Applied Energy, 414, 127815](https://doi.org/10.1016/j.apenergy.2026.127815) | [repo](https://github.com/DurhamWindFlow/optimal-wf-scheduling) |
 | 2025 | **Gaussian FLOWERS: wind-rose-based analytical integration of Gaussian wake model for extremely fast AEP estimation** | Whittaker, C., LoCascio, M. J., Martínez-Tossas, L. A., Bay, C. J., & Bastankhah, M. | [Journal of Renewable and Sustainable Energy, 17(1), 013306](https://doi.org/10.1063/5.0245886) | — |
 | 2025 | **Sensitivity analysis of computational domain height for semi-infinite and finite-sized wind farms** | Chanprasert, W., Bastankhah, M., Buxton, O., & Ivanell, S. | [Journal of Physics: Conference Series, 3016(1), 012052](https://doi.org/10.1088/1742-6596/3016/1/012052) | — |
 | 2024 | **A fast-running physics-based wake model for a semi-infinite wind farm** | Bastankhah, M., Mohammadi, M. M., Lees, C., Diaz, G. P. N., Buxton, O. R. H., & Ivanell, S. | [Journal of Fluid Mechanics, 985, A43](https://doi.org/10.1017/jfm.2024.282) | — |
@@ -75,7 +75,7 @@ The table below lists peer-reviewed journal articles by group members relating t
 
 ## 👥 People
 
-Meet the group [here →](https://github.com/DurhamWIND-lab/.github/blob/main/Profile/people.md)
+Meet the group [here →](https://github.com/DurhamWindFlow/.github/blob/main/Profile/people.md)
 
 We welcome collaboration, and enquiries from prospective students and researchers.
 
@@ -92,7 +92,7 @@ We welcome collaboration, and enquiries from prospective students and researcher
 | [`data/projects.yml`](./data/projects.yml) | Research themes |
 | [`data/site.yml`](./data/site.yml) | Group name, blurbs, role tiers, open positions |
 
-A commit to any of them regenerates this page automatically and updates [the website](https://durhamwind-lab.github.io) on its next sync.
+A commit to any of them regenerates this page automatically and updates [the website](https://durhamwindflow.github.io) on its next sync.
 
 ---
 
@@ -100,7 +100,7 @@ A commit to any of them regenerates this page automatically and updates [the web
 
 We are a multidisciplinary group at Durham University, and we welcome collaboration and enquiries from prospective students and researchers.
 
-There is no central inbox — write to whichever of us works closest to what interests you. Email addresses are on the [People page](https://github.com/DurhamWIND-lab/.github/blob/main/Profile/people.md).
+There is no central inbox — write to whichever of us works closest to what interests you. Email addresses are on the [People page](https://github.com/DurhamWindFlow/.github/blob/main/Profile/people.md).
 
 📍 Durham University, Lower Mountjoy, South Road, Durham DH1 3LE, United Kingdom
 

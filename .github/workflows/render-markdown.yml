@@ -70,11 +70,11 @@ jobs:
           # OPTIONAL. Without a SITE_SYNC_TOKEN secret the website still picks
           # these changes up on its hourly schedule — this step just makes it
           # immediate. To enable: create a fine-grained PAT with Actions:write
-          # on DurhamWIND-lab/DurhamWIND-Lab.github.io and save it here as the
+          # on DurhamWindFlow/DurhamWindFlow.github.io and save it here as the
           # repository secret SITE_SYNC_TOKEN.
           if [ -z "$GH_TOKEN" ]; then
             echo "No SITE_SYNC_TOKEN set — the site will sync on its hourly schedule."
             exit 0
           fi
           gh workflow run sync-content.yml \
-            --repo DurhamWIND-lab/DurhamWIND-Lab.github.io
+            --repo DurhamWindFlow/DurhamWindFlow.github.io

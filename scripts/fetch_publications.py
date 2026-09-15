@@ -57,7 +57,7 @@ EXCLUDED_HEADER = """# ---------------------------------------------------------
 """
 
 # A polite identifier gets us Crossref's faster pool and is required by ORCID.
-UA = "DurhamWIND-publication-sync (+https://durhamwind-lab.github.io)"
+UA = "DurhamWindFlow-publication-sync (+https://durhamwindflow.github.io)"
 
 # Words that make a paper plausibly in scope for this group's page. Used only
 # to sort the review list into "likely relevant" and "check scope" — nothing is
