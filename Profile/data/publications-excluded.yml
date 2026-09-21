@@ -168,3 +168,291 @@
   year: 2015
   author: "Nima Gerami-Seresht"
   reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.coco.2026.102830
+  title: "Efficient 3D analysis of composite laminates using high-aspect-ratio discontinuous Galerkin finite elements"
+  year: 2026
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.cma.2025.118081
+  title: "On shells of revolution with random profiles"
+  year: 2025
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.cma.2025.118168
+  title: "The Stress-Continuous Material Point Method: A technique to alleviate cell-crossing instability while retaining linear shape functions"
+  year: 2025
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.cam.2023.115212
+  title: "<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e677\" altimg=\"si4.svg\"><mml:mrow><mml:mi>k</mml:mi><mml:mi>h</mml:mi><mml:mi>p</mml:mi></mml:mrow></mml:math>-adaptive spectral projection based discontinuous Galerkin method for the numerical solution of wave equations with memory"
+  year: 2023
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.aml.2021.107844
+  title: "A spectral projection based method for the numerical solution of wave equations with memory"
+  year: 2022
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.advengsoft.2022.103147
+  title: "An open source <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si2.svg\"><mml:mrow><mml:mi>h</mml:mi><mml:mi>p</mml:mi></mml:mrow></mml:math>-adaptive discontinuous Galerkin finite element solver for linear elasticity"
+  year: 2022
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1007/s10845-022-01998-x
+  title: "Recursive encoder network for the automatic analysis of STEP files"
+  year: 2022
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.cam.2021.113526
+  title: "On effects of perforated domains on parameter-dependent free vibration"
+  year: 2021
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1137/19m1262097
+  title: "Quasi-Optimal Mesh Sequence Construction through Smoothed Adaptive Finite Element Methods"
+  year: 2021
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1515/cmam-2020-0027
+  title: "Smoothed-Adaptive Perturbed Inverse Iteration for Elliptic Eigenvalue Problems"
+  year: 2021
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.cam.2021.113528
+  title: "Solving elliptic eigenproblems with adaptive multimesh <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e1013\" altimg=\"si5.svg\"><mml:mrow><mml:mi>h</mml:mi><mml:mi>p</mml:mi></mml:mrow></mml:math>-FEM"
+  year: 2021
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1007/s00521-021-06324-9
+  title: "Using company-specific headlines and convolutional neural networks to predict stock fluctuations"
+  year: 2021
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1007/s10444-020-09759-1
+  title: "An adaptive composite discontinuous Galerkin method for elliptic problems on complicated domains with discontinuous coefficients"
+  year: 2020
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.camwa.2019.04.002
+  title: "<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" overflow=\"scroll\" id=\"d1e269\" altimg=\"si4.gif\"><mml:mi>h</mml:mi><mml:mi>p</mml:mi></mml:math>-adaptive discontinuous Galerkin methods for non-stationary convection–diffusion problems"
+  year: 2019
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.camwa.2019.01.032
+  title: "A parabolic level set reinitialisation method using a discontinuous Galerkin discretisation"
+  year: 2019
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.amc.2018.08.039
+  title: "A posteriori discontinuous Galerkin error estimator for linear elasticity"
+  year: 2019
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1029/2018jb016803
+  title: "Earthquake Nucleation Size: Evidence of Loading Rate Dependence in Laboratory Faults"
+  year: 2019
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.camwa.2019.03.012
+  title: "Rapid non-linear finite element analysis of continuous and discontinuous Galerkin methods in MATLAB"
+  year: 2019
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1137/17m1149912
+  title: "$HP$-Adaptive <i>Celatus</i> Enriched Discontinuous Galerkin Method for Second-Order Elliptic Source Problems"
+  year: 2018
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.amc.2017.07.007
+  title: "An a posteriori estimator of eigenvalue/eigenvector error for penalty-type discontinuous Galerkin methods"
+  year: 2018
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.cam.2017.12.039
+  title: "Reliable anisotropic-adaptive discontinuous Galerkin method for simplified <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" id=\"mml63\" display=\"inline\" overflow=\"scroll\" altimg=\"si63.gif\"><mml:msub><mml:mrow><mml:mi mathvariant=\"bold\">P</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant=\"bold\">N</mml:mi></mml:mrow></mml:msub></mml:math> approximations of radiative transfer"
+  year: 2018
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.cma.2015.12.013
+  title: "<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si83.gif\" display=\"inline\" overflow=\"scroll\"> <mml:mi>h</mml:mi> <mml:mi>p</mml:mi> </mml:math> -adaptive discontinuous Galerkin methods for simplified <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si84.gif\" display=\"inline\" overflow=\"scroll\"> <mml:msub> <mml:mrow> <mml:mstyle mathvariant=\"normal\"> <mml:mi>P</mml:mi> </mml:mstyle> </mml:mrow> <mml:mrow> <mml:mstyle mathvariant=\"normal\"> <mml:mi>N</mml:mi> </mml:mstyle> </mml:mrow> </mml:msub> </mml:math> approximations of frequency-dependent radiative transfer"
+  year: 2016
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.apnum.2015.12.001
+  title: "Benchmark results for testing adaptive finite element eigenvalue procedures part 2 (conforming eigenvector and eigenvalue estimates)"
+  year: 2016
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.camwa.2016.06.001
+  title: "Efficient and reliable hp-FEM estimates for quadratic eigenvalue problems and photonic crystal applications"
+  year: 2016
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1007/s00211-015-0752-3
+  title: "Robust error estimates for approximations of non-self-adjoint eigenvalue problems"
+  year: 2015
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.amc.2015.01.011
+  title: "Solving elliptic eigenvalue problems on polygonal meshes using discontinuous Galerkin composite finite element methods"
+  year: 2015
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.amc.2015.01.031
+  title: "hp-Adaptive composite discontinuous Galerkin methods for elliptic eigenvalue problems on complicated domains"
+  year: 2015
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1002/num.21872
+  title: "<i>hp</i>–Adaptive composite discontinuous Galerkin methods for elliptic problems on complicated domains"
+  year: 2014
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.cam.2014.03.009
+  title: "A <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si5.gif\" display=\"inline\" overflow=\"scroll\"><mml:mi>h</mml:mi><mml:mi>p</mml:mi></mml:math>-adaptive discontinuous Galerkin method for plasmonic waveguides"
+  year: 2014
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.camwa.2012.10.015
+  title: "An a-posteriori error estimate for<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si36.gif\" display=\"inline\" overflow=\"scroll\"><mml:mi>h</mml:mi><mml:mi>p</mml:mi></mml:math>-adaptive DG methods for convection–diffusion problems on anisotropically refined meshes"
+  year: 2014
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.cam.2014.03.007
+  title: "Goal-oriented adaptive composite discontinuous Galerkin methods for incompressible flows"
+  year: 2014
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1137/120877246
+  title: "$hp$-Version Composite Discontinuous Galerkin Methods for Elliptic Problems on Complicated Domains"
+  year: 2013
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1007/s00607-012-0261-5
+  title: "An a-posteriori error estimate for $$hp$$ -adaptive DG methods for elliptic eigenvalue problems on anisotropically refined meshes"
+  year: 2013
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1007/s10915-013-9792-y
+  title: "Domain Decomposition Preconditioners for Discontinuous Galerkin Methods for Elliptic Problems on Complicated Domains"
+  year: 2013
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1142/s0218202512500303
+  title: "AN <i>A POSTERIORI</i> ERROR ESTIMATOR FOR hp-ADAPTIVE DISCONTINUOUS GALERKIN METHODS FOR ELLIPTIC EIGENVALUE PROBLEMS"
+  year: 2012
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1007/s00607-012-0244-6
+  title: "An a posteriori error estimator for $$hp$$ -adaptive continuous Galerkin methods for photonic crystal applications"
+  year: 2012
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.cam.2012.02.007
+  title: "An a posteriori error estimator for <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si16.gif\" display=\"inline\" overflow=\"scroll\"> <mml:mi>h</mml:mi> <mml:mi>p</mml:mi> </mml:math> -adaptive discontinuous Galerkin methods for computing band gaps in photonic crystals"
+  year: 2012
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.cam.2012.05.002
+  title: "An iterative adaptive finite element method for elliptic eigenvalue problems"
+  year: 2012
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1007/s00607-012-0251-7
+  title: "An iterative adaptive hp-FEM method for non-symmetric elliptic eigenvalue problems"
+  year: 2012
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.apnum.2011.10.007
+  title: "Benchmark results for testing adaptive finite element eigenvalue procedures"
+  year: 2012
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1016/j.jcp.2012.05.028
+  title: "Boundary element dynamical energy analysis: A versatile method for solving two or three dimensional wave problems in the high frequency limit"
+  year: 2012
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1142/s0218202512500285
+  title: "CONVERGENT ADAPTIVE FINITE ELEMENT METHODS FOR PHOTONIC CRYSTAL APPLICATIONS"
+  year: 2012
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1007/s00607-012-0260-6
+  title: "Error control for $$hp$$ -adaptive approximations of semi-definite eigenvalue problems"
+  year: 2012
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1007/s00607-012-0253-5
+  title: "High-order/ $$hp$$ -adaptive discontinuous Galerkin finite element methods for acoustic problems"
+  year: 2012
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1007/s00211-011-0425-9
+  title: "Adaptive finite element methods for computing band gaps in photonic crystals"
+  year: 2011
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1121/1.3621041
+  title: "Dynamical energy analysis for built-up acoustic systems at high frequencies"
+  year: 2011
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1142/s0218202511005052
+  title: "ENERGY NORM <i>A POSTERIORI</i> ERROR ESTIMATION FOR hp-ADAPTIVE DISCONTINUOUS GALERKIN METHODS FOR ELLIPTIC PROBLEMS IN THREE DIMENSIONS"
+  year: 2011
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords
+
+- doi: https://doi.org/10.1137/070697264
+  title: "A Convergent Adaptive Method for Elliptic Eigenvalue Problems"
+  year: 2009
+  author: "Stefano Giani"
+  reason: no wind or atmospheric-flow keywords

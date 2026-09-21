@@ -264,4 +264,16 @@
   theme: systems    # guessed — confirm
   # via ORCID: Nima Gerami-Seresht
 
+# --- FETCHED, PENDING REVIEW ---
+# Added automatically from ORCID. Confirm the guessed themes, then
+# remove this marker. Anything that does not belong on a wind-energy
+# page should be moved to publications-excluded.yml, not just deleted,
+# or the next sweep will propose it again.
 
+- year: 2023
+  title: "Convolutional neural network framework for wind turbine electromechanical fault detection"
+  authors: "Stone, E., Giani, S., Zappalá, D., & Crabtree, C."
+  venue: "Wind Energy, 26, 1082-1097"
+  doi: https://doi.org/10.1002/we.2857
+  theme: farm-aero    # guessed — confirm
+  # via ORCID: Stefano Giani
