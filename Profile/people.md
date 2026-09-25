@@ -101,22 +101,12 @@ Department of Engineering, Durham University
 
 ---
 
-### Andreo Chimal García — PhD Student
+### Andreo Chimal Garcia — PhD Student
 
-<img src="./Images/Andreo.jpg" alt="Andreo Chimal" width="180">
-
-Department of Mathematical Sciences, Durham University  
+Department of Engineering, Durham University  
 [ernesto.a.chimal-garcia@durham.ac.uk](mailto:ernesto.a.chimal-garcia@durham.ac.uk)
 
-> I am a PhD student in the Applied Mathematics group of the Department of Mathematical Sciences in Durham. Before that, In 2025 I completed a 5-year-long degree in Physics at UNAM (the National Autonomous University of Mexico), where I graduated with honours as valedictorian. My main interests are fluid dynamics and its relations with geometry and topology. At the moment I work on geophysical fluids.
->
-> I am also a coach for the Mexican national team that represents the country in the International Physics Olympiad, among other international contests.
-
-> **Research projects**:
-> 1. Studying the Generalised Lagrangian Mean (GLM), a physics-informed method of time-averaging and filtering in fluids; generalisation of the GLM to spatial means (arc-length and zonal) and its use in studying Lagrangian Coherent Structures.
-> 2. Wind farm model development in the two-way coupling between wind-farm wakes and atmospheric dynamics in the Planetary Boundary Layer.
-
-> **Academic supervisors**: Hossein Amini Kafiabad (Department of Mathematical Sciences, Durham University), Majid Bastankhah (Department of Engineering, Durham University)
+> **Academic supervisors**: Majid Bastankhah (Department of Engineering, Durham University), Hossein Amini Kafiabad (Department of Mathematical Sciences, Durham University)
 
 ---
 
