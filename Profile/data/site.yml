@@ -98,9 +98,10 @@ copy:
       spreading downstream, and the vorticity field, where rows of tip and root
       vortices show as discrete red and blue cores.
     hero_caption: >
-      The wake of a model turbine, measured in the wind tunnel, in wind speed
-      and then vorticity. The wake is unsteady, and that unsteadiness is what
-      sets how quickly it recovers.
+      Animated wind tunnel measurements behind a model turbine, cycling between
+      the wind speed field, where the wake appears as a dark low-speed band
+      spreading downstream, and the vorticity field, where rows of tip and root
+      vortices show as discrete red and blue cores.
     figure_image: wind_farm.png
     figure_alt: >
       Schematic of a wind farm in the atmospheric boundary layer: inflow wind
